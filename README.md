@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋Kaixo!
+hemenzaude.hotglue.me web orriko komentario bilketa izango da hau
+
 
 <!--
 **hemenzaude/hemenzaude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
